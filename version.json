@@ -1,7 +1,12 @@
 {
   "versionCode": 188,
   "versionName": "v188",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v188/MaxStreamTv_v188.apk",
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v189/MaxStreamTv_v188.apk",
   "message": "Dostępna jest nowa wersja MaxStreamTV.",
+  "changelog": [
+    "Dodano nowy ekran aktualizacji",
+    "Poprawiono stabilność aplikacji",
+    "Naprawiono błędy odtwarzania"
+  ],
   "forceUpdate": false
 }
