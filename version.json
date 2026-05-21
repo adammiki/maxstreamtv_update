@@ -1,12 +1,13 @@
 {
-  "versionCode": 188,
-  "versionName": "v188",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v189/MaxStreamTv_v188.apk",
+  "versionCode": 199,
+  "versionName": "v199",
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v199/MaxStreamTv.apk",
   "message": "Dostępna jest nowa wersja MaxStreamTV.",
   "changelog": [
-    "Dodano nowy ekran aktualizacji",
-    "Poprawiono stabilność aplikacji",
-    "Naprawiono błędy odtwarzania"
+    "Poprawiono nazwy kanałów w grupach",
+    "Naprawiono guzik Dodaj do Ulubionych",
+    "Naprawiono przesuwanie i sortowanie kanalow w grupach",
+    "Dodano nowa kategorie MaxStream (Wiecej info pozniej)"
   ],
   "forceUpdate": false
 }
