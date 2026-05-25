@@ -183,12 +183,7 @@
         "url": "https://streams.80s80s.de/web/aac-64/radiode/",
         "logo": ""
       },
-      {
-        "name": "Radio Republika",
-        "type": "radio",
-        "url": "https://ssl-1.radiotvrepublika.pl:12698/stream",
-        "logo": ""
-      },
+      
       {
         "name": "VOX DJ Mix",
         "type": "radio",
