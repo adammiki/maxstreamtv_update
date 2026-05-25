@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "TVP Sport Online",
+      "positionAfter": "Radia Internetowe",
+      "channels": [
+        {
+          "name": "TVP Sport Online 1",
+          "type": "tvp_live_page",
+          "url": "",
+          "logo": ""
+        },
+        {
+          "name": "TVP Sport Online 2",
+          "type": "tvp_live_page",
+          "url": "",
+          "logo": ""
+        },
+        {
+          "name": "TVP Sport Online 3",
+          "type": "tvp_live_page",
+          "url": "",
+          "logo": ""
+        },
+        {
+          "name": "TVP Sport Online 4",
+          "type": "tvp_live_page",
+          "url": "",
+          "logo": ""
+        },
+        {
+          "name": "TVP Sport Online 5",
+          "type": "tvp_live_page",
+          "url": "",
+          "logo": ""
+        },
+        {
+          "name": "TVP Sport Online 6",
+          "type": "tvp_live_page",
+          "url": "",
+          "logo": ""
+        }
+      ]
+    }
+  ]
+}
