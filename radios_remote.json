@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "category": {
+    "name": "Radia Internetowe",
+    "channels": [
+      {
+        "name": "RMF FM",
+        "type": "radio",
+        "url": "https://rs203-krk-cyfronet.rmfstream.pl/rmf_fm",
+        "logo": "https://static.rmf.pl/portal/stations/covers/rmf-fm/20240404114958_rmf-fm_600.jpg"
+      },
+      {
+        "name": "Radio RMF24",
+        "type": "radio",
+        "url": "https://rs101-krk.rmfstream.pl/rmf_24",
+        "logo": "https://static.rmf.pl/portal/stations/covers/rmf-24/20240821114837_rmf-24_600.jpg"
+      },
+      {
+        "name": "RMF Rock",
+        "type": "radio",
+        "url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_rock",
+        "logo": "https://static.rmf.pl/portal/stations/covers/rmf-rock/20240625103959_rmf-rock_600.jpg"
+      },
+      {
+        "name": "RMF DANCE",
+        "type": "radio",
+        "url": "https://rs102-krk-cyfronet.rmfstream.pl/rmf_dance",
+        "logo": "https://static.rmf.pl/portal/stations/covers/rmf-dance/20240404114851_rmf-dance_600.jpg"
+      },
+      {
+        "name": "RMF Maxx",
+        "type": "radio",
+        "url": "https://rs201-krk-cyfronet.rmfstream.pl/rmf_maxxx",
+        "logo": "https://static.rmf.pl/portal/stations/covers/rmf-maxx/20240404115440_rmf-maxx_600.jpg"
+      },
+      {
+        "name": "RMF PopLista",
+        "type": "radio",
+        "url": "https://rs103-krk.rmfstream.pl/rmf_poplista",
+        "logo": "https://static.rmf.pl/portal/stations/covers/rmf-poplista/20240625101242_rmf-poplista_600.jpg"
+      },
+      {
+        "name": "RMF Polskie przeboje",
+        "type": "radio",
+        "url": "https://rs101-krk.rmfstream.pl/rmf_polskie_przeboje",
+        "logo": "https://static.rmf.pl/portal/stations/covers/rmf-polskie-przeboje/20240404115940_rmf-polskie-przeboje_600.jpg"
+      },
+      {
+        "name": "RMF Party",
+        "type": "radio",
+        "url": "https://rs201-krk-cyfronet.rmfstream.pl/rmf_party",
+        "logo": ""
+      },
+      {
+        "name": "RMF 60s",
+        "type": "radio",
+        "url": "https://rs101-krk.rmfstream.pl/rmf_60s",
+        "logo": ""
+      },
+      {
+        "name": "RMF 70s",
+        "type": "radio",
+        "url": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_70s",
+        "logo": ""
+      },
+      {
+        "name": "RMF 90s",
+        "type": "radio",
+        "url": "https://rs101-krk.rmfstream.pl/rmf_90s",
+        "logo": ""
+      },
+      {
+        "name": "RMF 50s",
+        "type": "radio",
+        "url": "https://rs203-krk.rmfstream.pl/rmf_50s",
+        "logo": ""
+      },
+      {
+        "name": "Radio ESKA",
+        "type": "radio",
+        "url": "https://liveradio.timesa.pl/2980-1.aac/chunklist.m3u8",
+        "logo": ""
+      },
+      {
+        "name": "Vox FM",
+        "type": "radio",
+        "url": "https://radio.stream.smcdn.pl/timeradio-p/3990-1.aac/playlist.m3u8",
+        "logo": ""
+      },
+      {
+        "name": "Radio zet",
+        "type": "radio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZETAAC.aac",
+        "logo": ""
+      },
+      {
+        "name": "tok fm",
+        "type": "radio",
+        "url": "https://radiostream.pl/tuba10-1.mp3",
+        "logo": ""
+      },
+      {
+        "name": "Zlote przeboje",
+        "type": "radio",
+        "url": "https://radiostream.pl/tuba9-1.mp3?",
+        "logo": ""
+      },
+      {
+        "name": "radio fest",
+        "type": "radio",
+        "url": "https://sluchaj2.radiopark.biz.pl:8443/fest",
+        "logo": ""
+      },
+      {
+        "name": "RadioParty Kanal Glowny",
+        "type": "radio",
+        "url": "https://s2.radioparty.pl:7000/stream",
+        "logo": ""
+      },
+      {
+        "name": "Jedynka - Polskie Radio Program 1",
+        "type": "radio",
+        "url": "https://stream11.polskieradio.pl/pr1/pr1.sdp/master_w1134875011.m3u8",
+        "logo": ""
+      },
+      {
+        "name": "Polskie Radio 24",
+        "type": "radio",
+        "url": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
+        "logo": ""
+      },
+      {
+        "name": "Trojka - Polskie Radio Program 3",
+        "type": "radio",
+        "url": "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8",
+        "logo": ""
+      },
+      {
+        "name": "Antyradio",
+        "type": "radio",
+        "url": "https://28933.live.streamtheworld.com/ANTYRADIOAAC.aac",
+        "logo": ""
+      },
+      {
+        "name": "Disco-Polo.eu",
+        "type": "radio",
+        "url": "https://n10.rcs.revma.com/cvswvmyewzzuv?",
+        "logo": ""
+      },
+      {
+        "name": "RadioParty Djmixes",
+        "type": "radio",
+        "url": "https://s2.radioparty.pl:8015/djmixes",
+        "logo": ""
+      },
+      {
+        "name": "Eska ROCK",
+        "type": "radio",
+        "url": "https://waw.ic.smcdn.pl/5380-1.mp3",
+        "logo": ""
+      },
+      {
+        "name": "RadioParty Energy 2000",
+        "type": "radio",
+        "url": "https://s2.radioparty.pl:8015/energy2000",
+        "logo": ""
+      },
+      {
+        "name": "Eska Impreska",
+        "type": "radio",
+        "url": "https://waw.ic.smcdn.pl/6030-1.mp3",
+        "logo": ""
+      },
+      {
+        "name": "Radio Italo4you",
+        "type": "radio",
+        "url": "https://ssl-1.radiohost.pl:8018/stream/1/",
+        "logo": ""
+      },
+      {
+        "name": "80s80s",
+        "type": "radio",
+        "url": "https://streams.80s80s.de/web/aac-64/radiode/",
+        "logo": ""
+      },
+      {
+        "name": "Radio Republika",
+        "type": "radio",
+        "url": "https://ssl-1.radiotvrepublika.pl:12698/stream",
+        "logo": ""
+      },
+      {
+        "name": "VOX DJ Mix",
+        "type": "radio",
+        "url": "https://radio.stream.smcdn.pl/timeradio-p/6020-2.aac/playlist.m3u8",
+        "logo": ""
+      },
+      {
+        "name": "VOX Dance",
+        "type": "radio",
+        "url": "https://radio.stream.smcdn.pl/timeradio-p/6180-2.aac/playlist.m3u8",
+        "logo": ""
+      },
+      {
+        "name": "ESKA Goraca 20",
+        "type": "radio",
+        "url": "https://waw.ic.smcdn.pl/6130-1.mp3",
+        "logo": ""
+      },
+      {
+        "name": "Radio Kiss Kiss Italia",
+        "type": "radio",
+        "url": "https://kisskiss.fluidstream.eu/KKItalia.aac",
+        "logo": ""
+      }
+    ]
+  }
+}
