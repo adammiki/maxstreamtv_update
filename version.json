@@ -1,12 +1,12 @@
 {
-  "versionCode": 205,
-  "versionName": "v205",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v205/MaxStreamTv-update.apk",
+  "versionCode": 210,
+  "versionName": "v210",
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v210/MaxStreamTv-update.apk",
   "message": "Dostępna jest nowa wersja MaxStreamTV.",
   "changelog": [
-    "Dodano kategorie Youtube Live",
-    "Dodano godzine w ekranie Na Zywo",
-    "Dodano stream z youtube Kanal Zero (To nie jest z tv)"
+    "Dodano nowe kanaly do Youtube Live",
+    "Dodano Radia Internetowe (Jak chcecie inne i wiecej pisac priv)",
+    "Nowe kategorie MaxStream Filmy oraz MaxStream Series"
   ],
   "forceUpdate": false
 }
