@@ -55,16 +55,7 @@
           ],
           "logo": ""
         },
-        {
-          "name": "TVP Sport Online 6",
-          "type": "tvp_live_page",
-          "urls": [
-            "",
-            "",
-            ""
-          ],
-          "logo": ""
-        }
+        
       ]
     }
   ]
