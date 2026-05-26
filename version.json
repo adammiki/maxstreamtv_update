@@ -1,13 +1,11 @@
 {
   "versionCode": 211,
   "versionName": "v211",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v211/MaxStreamTv-update.apk",
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v213/MaxStreamTv-update.apk",
   "message": "Dostępna jest nowa wersja MaxStreamTV.",
   "changelog": [
-    "Dodano nowe kanaly do Youtube Live",
-    "Dodano Radia Internetowe (Jak chcecie inne i wiecej pisac priv)",
-    "Nowe kategorie MaxStream Filmy oraz MaxStream Series",
-    "Poprawiono okno aktualizacji"
+    "Naprawiono Kanaly Youtube po ostatniej aktualizacji.",
+    "Poprawiona stabilnosc aplikacji."
   ],
   "forceUpdate": false
 }
