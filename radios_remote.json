@@ -207,7 +207,12 @@
         "type": "radio",
         "url": "https://kisskiss.fluidstream.eu/KKItalia.aac",
         "logo": ""
-      }
+      },
+      {
+  "name": "Melo Radio",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MELORADIOAAC.aac",
+  "logo": ""
+}
     ]
   }
 }
