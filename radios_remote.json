@@ -212,6 +212,11 @@
   "name": "Melo Radio",
   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MELORADIOAAC.aac",
   "logo": ""
+},
+      {
+  "name": "RMF Disco Polo",
+  "url": "https://rs201-krk-cyfronet.rmfstream.pl/rmf_disco_polo",
+  "logo": "https://static.rmf.pl/portal/stations/covers/rmf-disco-polo/20240404114929_rmf-disco-polo_600.jpg"
 }
     ]
   }
