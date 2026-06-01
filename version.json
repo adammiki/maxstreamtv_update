@@ -1,11 +1,11 @@
 {
-  "versionCode": 213,
-  "versionName": "v213",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v213/MaxStreamTv-update.apk",
-  "message": "Dostępna jest nowa wersja MaxStreamTV.",
+  "versionCode": 217,
+  "versionName": "v217",
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v217/MaxStreamTv-update.apk",
+  "message": "Nowa wersja MaxStreamTv / New vesion MaxStreamTv",
   "changelog": [
-    "Naprawiono Kanaly Youtube po ostatniej aktualizacji.",
-    "Poprawiona stabilnosc aplikacji."
+    "Poprawiono dzialanie EPG / Fix EPG",
+    "Dodano angielska wersje jezykowa / Added English Language"
   ],
   "forceUpdate": false
 }
