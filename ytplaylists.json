@@ -1,0 +1,16 @@
+{
+  "category": {
+    "id": "maxstream_bajki_247_id",
+    "name": "Bajki 24/7",
+    "channels": [
+      {
+        "number": "1",
+        "name": "Bajki 24/7",
+        "stream_id": "yt_bajki_247_001",
+        "playlistId": "PLHlHwflVMrtSrYkTm9NU0_A78WboVXOsu",
+        "url": "youtube_playlist_live://PLHlHwflVMrtSrYkTm9NU0_A78WboVXOsu",
+        "logo": ""
+      }
+    ]
+  }
+}
