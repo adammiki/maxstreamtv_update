@@ -9,11 +9,12 @@
       "group": "Filmy"
     },
      {
-      "id": "film_przyklad_3",
-      "name": "Przyklad filmu 3",
-      "page_url": "https://obejrzyj.to/watch/414824",
-      "group": "Filmy"
-    },
+  "id": "film_przyklad_33",
+  "name": "Przyklad filmu 33",
+  "page_url": "https://obejrzyj.to/watch/414824",
+  "stream_url": "https://sw5.aurorafieldgroup.shop/v4/gee/ox83rb/cl-master.1774034845.txt",
+  "group": "Filmy"
+},
     {
       "id": "film_przyklad_4",
       "name": "Przyklad filmu 4",
