@@ -3,9 +3,9 @@
   "description": "Filmy i streamy webowe — strony z odtwarzaczem wideo (.m3u8 / .m3u)",
   "pages": [
     {
-      "id": "film_przyklad_1",
-      "name": "Przyklad filmu 1",
-      "page_url": "https://filman.cc/m/knights-of-the-old-republic-escape-from-taris-2026",
+      "id": "film_przyklad_12",
+      "name": "Przyklad filmu 12",
+      "page_url": "https://obejrzyj.to/watch/408376",
       "group": "Filmy"
     },
      {
