@@ -1,14 +1,17 @@
 {
-  "versionCode": 231,
-  "versionName": "v231",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v231/MaxStreamTv-update.apk",
+  "versionCode": 300,
+  "versionName": "v300",
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v300/MaxStreamTv-update.apk",
   "message": "Nowa wersja MaxStreamTv / New vesion MaxStreamTv",
   "changelog": [
-    "Poprawiono dzialanie EPG / Fix EPG",
-    "Dodano 2 nowe kanaly YouTube (Testowo)",
-    "Naprawione zostalo wczytywanie ostatniego programu zamiast kategorii Poland VIP",
-    "Dodalem Kamery Internetowe (Czesc moze nie dzialac zrodlo z internetu)",
-    "Poprawione zostaly urzadzenia Amazon Fire stick z odtwarzaniem filmow i seriali"
+    "Dodano możliwość zmiany sciezki dzwiekowej do Live TV w wersji Mobile",
+    "Drobna zmiana wizaulna w live tv",
+    "Zablokowano edytowanie listy tak żeby nikt nie mogl odczytac loginu i hasla.",
+    "Poprawiono wyszukiwanie filmow i seriali. Teraz przeszukuje calosc a nie zaznaczona kategorie.",
+    "Dodano pobieranie filmow i seriali w tryb offline",
+    "Wlasny system EPG",
+    "YouTube 24/7 z typowymi bajkami dla dzieci.",
+    "Zablokowano PPV pinem"
   ],
   "forceUpdate": false
 }
