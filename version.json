@@ -1,17 +1,11 @@
 {
-  "versionCode": 300,
-  "versionName": "v300",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v300/MaxStreamTv-update.apk",
+  "versionCode": 302,
+  "versionName": "v302",
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v302/MaxStreamTv-update.apk",
   "message": "Nowa wersja MaxStreamTv / New vesion MaxStreamTv",
   "changelog": [
-    "Dodano możliwość zmiany sciezki dzwiekowej do Live TV w wersji Mobile",
-    "Drobna zmiana wizaulna w live tv",
-    "Zablokowano edytowanie listy tak żeby nikt nie mogl odczytac loginu i hasla.",
-    "Poprawiono wyszukiwanie filmow i seriali. Teraz przeszukuje calosc a nie zaznaczona kategorie.",
-    "Dodano pobieranie filmow i seriali w tryb offline",
-    "Wlasny system EPG",
-    "YouTube 24/7 z typowymi bajkami dla dzieci.",
-    "Zablokowano PPV pinem"
+    "Dodano czyszczenie pamieci podrecznej w ustawieniach",
+    "Poprawiono dzialanie systemu EPG"
   ],
   "forceUpdate": false
 }
