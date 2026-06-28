@@ -217,6 +217,11 @@
   "name": "RMF Disco Polo",
   "url": "https://rs201-krk-cyfronet.rmfstream.pl/rmf_disco_polo",
   "logo": "https://static.rmf.pl/portal/stations/covers/rmf-disco-polo/20240404114929_rmf-disco-polo_600.jpg"
+},
+      {
+  "name": "PRL - Polskie Radio Londyn",
+  "url": "https://stream.rcs.revma.com/prfmwmwy768uv",
+  "logo": "https://static.mytuner.mobi/media/tvos_radios/281/prl-polskie-radio-londyn.113db6bf.png"
 }
     ]
   }
