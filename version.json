@@ -1,11 +1,12 @@
 {
-  "versionCode": 302,
-  "versionName": "v302",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v302/MaxStreamTv-update.apk",
+  "versionCode": 303,
+  "versionName": "v303",
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v303/MaxStreamTv-update.apk",
   "message": "Nowa wersja MaxStreamTv / New vesion MaxStreamTv",
   "changelog": [
-    "Dodano czyszczenie pamieci podrecznej w ustawieniach",
-    "Poprawiono dzialanie systemu EPG"
+    "Filmy i seriale z mojej kategorii zapisuja sie trwale do ulubionych",
+    "Filmy i seriale z mojej kategorii zapisuja stan wyjscia z filmu/serialu",
+    "Dodano nowa funkcje Timer ktora odpowiada za automatyczne przelaczanie kanalow"
   ],
   "forceUpdate": false
 }
