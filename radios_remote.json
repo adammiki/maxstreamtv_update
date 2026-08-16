@@ -90,7 +90,7 @@
       {
         "name": "Radio Zet",
         "type": "radio",
-        "url": "http://161.97.186.78:8787/openfm/229.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ZETAAC.m3u8?dist=openfm",
         "logo": "https://openfm-upload-api.wpcdn.pl/0c569a99-0384-4e12-acb3-d344378de90c.jpg"
       },
       {
