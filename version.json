@@ -1,11 +1,11 @@
 {
   "versionCode": 313,
   "versionName": "v313",
-  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v313/MaxStreamTv-Update.apk,
+  "apkUrl": "https://github.com/adammiki/maxstreamtv_update/releases/download/v313/MaxStreamTv-Update.apk",
   "message": "Nowa wersja MaxStreamTv / New vesion MaxStreamTv",
   "changelog": [
     "Prosze o wykonanie aktualizacji",
-    "Please make an update. Click button "Pobierz" and install the update"
+    "Please make an update. Click button 'Pobierz' and install the update"
   ],
   "forceUpdate": false
 }
